@@ -5,10 +5,10 @@ Weather App with Vanilla JavaScript.
 [Weather App API](http://openweathermap.org/)
 
 ## Screenshots
-![Screenshot_1](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot1.png" width="256" height="256" )
+![Screenshot_1| 450x320,50%](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot1.png)
 
-![Screenshot_2](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot2.png)
+![Screenshot_2| 450x320,50%](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot2.png)
 
-![Screenshot_3](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot3.png)
+![Screenshot_3| 450x320,50%](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot3.png)
 
-![Screenshot_4](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot4.png)
+![Screenshot_4| 450x320,50%](https://github.com/mahimasawant/Weather-App/tree/master/screenshots/Screenshot4.png)
